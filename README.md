@@ -31,3 +31,15 @@ In the last line, the daily moods of Steve are enumerated by a list of character
 file is assumed to be correct.
 
                                   - List the animals of the highest exhilaration level at the end of each day -
+
+### How to run:
+
+1st way:
+
+      double-click on the app.exe\appTest.exe
+  
+2nd way:
+
+      1) open the command-line interpreter
+      2) move to the projects folder
+      3) write .\app.exe / .\appTest.exe
