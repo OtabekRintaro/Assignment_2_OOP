@@ -36,7 +36,7 @@ file is assumed to be correct.
 
 1st way:
 
-      double-click on the app.exe\appTest.exe
+      double-click on the app.exe/appTest.exe
   
 2nd way:
 
